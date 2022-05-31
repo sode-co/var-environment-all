@@ -8,6 +8,7 @@
     "API_HOST": "0.0.0.0",
     "GRPC_HOST": "0.0.0.0",
     "GRPC_PORT": 50052,
+    "GRPC_MOBILE_PORT": 50152
     "PROTOCOL": "http",
     "LogLevel": "Warning",
     "AllowedHosts": "*"
