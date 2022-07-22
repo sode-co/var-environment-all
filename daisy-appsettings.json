@@ -12,8 +12,16 @@
     "PROTOCOL": "http",
     "LogLevel": "Warning",
     "AllowedHosts": "*",
+    "MONGO_DB_HOST": "slimair.cool",
+    "MONGO_DB_PORT": "27017",
+    "MONGO_DB_USER": "root",
+    "MONGO_DB_NAME": "daisy",
+    "MONGO_DB_PASSWORD": "password",
     "ACCESS_TOKEN_SECRET": "553b7ce869ba7f0d2401a3691cf98d53dbb94b20fd7a98e729254d177a9133744e94194c97551084940b686deebc44686f5f9e04c9813dbb721c5e6de7a39711",
     "REFRESH_TOKEN_SECRET": "98a46993b4fc9a37dc83375bac374f94717a7a125e22a06e1280f5d2bce7dbb532bb3d3a0d2bf56af464712b86263aed8062b14b833baee7b6556c76c02f7cce",
     "GOOGLE_CLIENT_SECRET": "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",
-    "GOOGLE_CLIENT_ID": "947734464395-hb4v5ckgh3vfbaskfm0hcv1kf451i3ef.apps.googleusercontent.com"
+    "GOOGLE_CLIENT_ID": "947734464395-hb4v5ckgh3vfbaskfm0hcv1kf451i3ef.apps.googleusercontent.com",
+    "MOMO_TEST_ENV_PARTNER_CODE": "MOMOM85Y20220715",
+    "MOMO_TEST_ENV_ACCESS_KEY": "Tis0Lb3QBtOx8NH8",
+    "MOMO_TEST_ENV_SECRET_KEY": "zYWhlB3IpLYB8HFIjZhjERSbGlbAr111"
 }
