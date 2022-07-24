@@ -12,7 +12,7 @@
     "PROTOCOL": "http",
     "LogLevel": "Warning",
     "AllowedHosts": "*",
-    "MONGO_DB_HOST": "slimair.cool",
+    "MONGO_DB_HOST": "db_mongo",
     "MONGO_DB_PORT": "27017",
     "MONGO_DB_USER": "root",
     "MONGO_DB_NAME": "daisy",
